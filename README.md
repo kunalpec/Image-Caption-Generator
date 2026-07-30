@@ -8,3 +8,6 @@ The complete model training notebook is available on Kaggle:
 
 🔗 **Kaggle Notebook:**  
 https://www.kaggle.com/code/kunalpec/image-caption-generator-ipynb/edit
+
+![Uploading {9420849F-4B83-4391-9805-3ECED923CA31}.png…]()
+
