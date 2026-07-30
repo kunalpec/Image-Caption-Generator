@@ -9,6 +9,4 @@ The complete model training notebook is available on Kaggle:
 🔗 **Kaggle Notebook:**  
 https://www.kaggle.com/code/kunalpec/image-caption-generator-ipynb/edit
 
-<img width="911" height="660" alt="image" src="https://github.com/user-attachments/assets/0b514b9a-4dd0-4896-b81d-6656d63bc038" />
-
-
+<img width="1607" height="979" alt="img1" src="https://github.com/user-attachments/assets/523f74e8-4095-4142-af5b-809fe6e503cb" />
